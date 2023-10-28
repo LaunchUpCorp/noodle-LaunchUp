@@ -103,13 +103,16 @@
     "@savvywombat/tailwindcss-grid-areas": "^3.1.0",
     "@tailwindcss/typography": "^0.5.10",
     "@types/eslint": "^8.44.6",
+    "@types/node": "20.8.9",
     "@typescript-eslint/eslint-plugin": "^6.9.0",
     "@typescript-eslint/parser": "^6.9.0",
     "dotenv": "^16.3.1",
     "drizzle-kit": "^0.19.13",
     "prettier": "^3.0.3",
     "prettier-plugin-tailwindcss": "^0.5.6",
-    "tsx": "^3.14.0"
+    "scheduler": ">=0.19.0",
+    "tsx": "^3.14.0",
+    "webpack": ">=4"
   },
   "volta": {
     "node": "18.18.2",
